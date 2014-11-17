@@ -1,5 +1,6 @@
 speak
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bnujs/speak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository's sole purpose is for members of the Barcelona Node.js User
 Group to be able to post topic they would like to talk about or they would like
